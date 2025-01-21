@@ -19,3 +19,7 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+# EDITADO
+
+Tive que editar nas  configurações para funcionar pois o metódo usado em aula não estava funcionando.
